@@ -1,0 +1,8 @@
+{
+    "model_version": "v1.0",
+    "data_version": "8853e03f3a6a13cad755fc69003e95d0",
+    "train_size": 46187,
+    "test_size": 11547,
+    "test_accuracy": 0.915,
+    "timestamp": "2025-06-21T15:43:18.631590"
+}
